@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kieteghee.dvav.me/sitemap.xml
